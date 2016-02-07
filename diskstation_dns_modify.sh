@@ -3,8 +3,8 @@
 #YourNetworkName -> Domain name column
 #ForwardMasterFile -> Zone ID column
 #ReverseMasterFile -> Zone ID column
-YourNetworkName=home.lan
-ForwardMasterFile=home.lan
+YourNetworkName=robardet
+ForwardMasterFile=robardet
 ReverseMasterFile=1.168.192.in-addr.arpa
 
 overridesettings(){
